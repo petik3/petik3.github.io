@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Peter Huszák</title>
-    <link>https://petik3.github.io/tags/</link>
-    <description>Recent content in Tags on Peter Huszák</description>
+    <title>ios on Peter Huszák</title>
+    <link>https://petik3.github.io/categories/ios/</link>
+    <description>Recent content in ios on Peter Huszák</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Sep 2015 10:52:59 +0200</lastBuildDate>
     
-	    <atom:link href="https://petik3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://petik3.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ios</title>
-      <link>https://petik3.github.io/tags/ios/</link>
+      <title>Snafflz.</title>
+      <link>https://petik3.github.io/project/snafflz/</link>
       <pubDate>Mon, 07 Sep 2015 10:52:59 +0200</pubDate>
       
-      <guid>https://petik3.github.io/tags/ios/</guid>
+      <guid>https://petik3.github.io/project/snafflz/</guid>
       <description></description>
     </item>
     
